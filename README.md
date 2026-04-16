@@ -2,8 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/theatharvagai/agentic-ai-coders">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=⚡+HACO;Hardware-Aware+Code+Optimizer" alt="Typing SVG" />
-</a>
+  
 
 <br/>
 
